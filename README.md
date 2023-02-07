@@ -1,5 +1,4 @@
 # PyGaSal
 
-This GitHub is dedicated to the Gaming Sales project for the Aout21_Bootcamp_DS.
+This GitHub is dedicated to the Gaming Sales project.
 
-Team members: Ammar Hasan and Cristobal Gallardo.
